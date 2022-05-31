@@ -1,12 +1,12 @@
 ## Desafio Bootcamp GFT Start Woman Java
 
-###Descrição do desafio
+### Descrição do desafio
 Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução. Além disso, caso queira ir além, implemente suas próprias evoluções e melhorias ;-)
 
-####Meu objetivo
+#### Meu objetivo
 Criar uma aplicação Java que integre com o banco de dados MySQL utilizando o conector JDBC. A partir da aplicação Java teremos as operações de CRUD que serão alimentadas com os dados do cliente do banco.
 
-#####Comentários sobre as etapas de desenvolvimento do projeto
+##### Comentários sobre as etapas de desenvolvimento do projeto
 
 Primeiro, criei os pacotes que utilizarei no projeto.
 Depois, no MySql Workbench, iniciei o database do nosso "banco digital fictício" e a tabela referente aos Clientes que possui as colunas idcliente, nome, email e celular.
@@ -45,5 +45,5 @@ Nela, apresentaremos algumas opções de serviços para o usuário escolher, ess
 
 Após a seleção do serviço desejado, a operação é realizada ou não e uma mensagem é exibida na tela de acordo com o resultado.
 
-####Próximas etapas
+#### Próximas etapas
 Criar um relacionamento entre cliente do banco e tipo de conta de forma a conseguir realizar operações como depósito, transferência e saque. 
